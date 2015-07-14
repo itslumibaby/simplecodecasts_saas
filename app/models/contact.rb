@@ -1,2 +1,2 @@
 class Contact < ActiveRecord::Base
-end
+endgit push origin contact_form
